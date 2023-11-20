@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Abhinav, a Front-end developer 👨‍💻</div>  
+### <div align="center">I'm Abhinav, a Full-Stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [RedlandImmigration](https://redland-mauve.vercel.app/)  
   
 
-- 🌱 I’m currently learning React Native and TypeScript  
+- 🌱 I’m currently learning Python  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
